@@ -19,7 +19,6 @@ import uz.elmurodov.services.user.UserService;
 import uz.elmurodov.ui.UI;
 import uz.elmurodov.utils.BaseUtils;
 import uz.elmurodov.utils.validators.UserValidator;
-import uz.jl.utils.BaseUtil;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

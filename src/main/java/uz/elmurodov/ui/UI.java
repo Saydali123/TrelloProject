@@ -18,9 +18,9 @@ import uz.elmurodov.services.column.ColumnService;
 import uz.elmurodov.services.organization.OrganizationService;
 import uz.elmurodov.services.project.ProjectService;
 import uz.elmurodov.services.user.UserService;
-import uz.jl.utils.Color;
-import uz.jl.utils.Input;
-import uz.jl.utils.Print;
+import uz.elmurodov.utils.Color;
+import uz.elmurodov.utils.Input;
+import uz.elmurodov.utils.Print;
 
 public class UI {
     private final AuthUserService authUserService;

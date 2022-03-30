@@ -1,9 +1,8 @@
 package uz.elmurodov.ui;
 
 import uz.elmurodov.security.auth.PermissionsItem;
-import uz.jl.utils.Color;
-import uz.jl.utils.Print;
-
+import uz.elmurodov.utils.Color;
+import uz.elmurodov.utils.Print;
 
 import java.util.Objects;
 

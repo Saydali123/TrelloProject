@@ -3,9 +3,9 @@ package uz.elmurodov;
 import uz.elmurodov.container.UNIContainer;
 import uz.elmurodov.ui.Menu;
 import uz.elmurodov.ui.UI;
-import uz.jl.utils.Color;
-import uz.jl.utils.Input;
-import uz.jl.utils.Print;
+import uz.elmurodov.utils.Color;
+import uz.elmurodov.utils.Input;
+import uz.elmurodov.utils.Print;
 
 import java.util.Locale;
 
